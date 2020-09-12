@@ -5,9 +5,9 @@
   *     3. All tests must pass
   *     4. Only use MDN for googling
   *     5. No passing addtional arguments
- */
+  */
 
-function exponent(base, power) {
+function exponent(base, exponent) {
   // Write code here
 }
 
